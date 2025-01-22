@@ -1,0 +1,2 @@
+# YiZhiAutoListening
+易智自动化操作脚本软件的按键监控并记录的测试，Java语言实现
